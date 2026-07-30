@@ -37,13 +37,13 @@ The data was imported directly from **SQL Server** and modeled using a classic *
 
 ## 🔍 Key Features & Visual Insights
 
-1. **Timeline Fulfillment Analysis:**
-   - Multi-line chart comparing `#order by Order Date`, `#order by Due Date`, and `#order by Ship Date` across 2011–2014.
-2. **Product Volume Metrics:**
-   - Bar visual ranking product performance by `#Qty` sold.
-3. **Territory Revenue Matrix:**
-   - Detailed matrix breakdown comparing regional performance across sales years.
-4. **Interactive Navigation & Drill-Through:**
+1. **Timeline Fulfillment Analysis**
+  
+2. **Product Volume Metrics**
+   
+3. **Territory Revenue Matrix**
+  
+4. **Interactive Navigation & Drill-Through**
    - Dedicated **Drill-Through page** filtering performance by region groups and dynamic year sliders.
 
 ---
